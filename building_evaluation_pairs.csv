@@ -1,0 +1,21 @@
+Pair,Intensity,Building A,Building B,Orig Score (A / B),Orig Pick,SES2 Score (A / B),SES2 Pick,Human Verdict,Orig Agrees?,SES2 Agrees?,Notes
+1,3,"3 fl, 2 load, 8.2s","2 fl, 0 load, 9.4s",34.38 / 7.88,A > B,14.76 / 3.76,A > B,A > B,Yes,Yes,—
+2,5,"2 fl, 3 load, 27.9s","1 fl, 1 load, 11.6s",77.20 / 13.87,A > B,74.40 / 7.73,A > B,A > B,Yes,Yes,—
+3,2,"1 fl, 2 load, 26.6s","2 fl, 1 load, 16.0s",11.32 / 12.27,B > A,10.64 / 8.53,A > B,A > B,No,Yes,—
+4,5,"2 fl, 0 load, 4.6s","1 fl, 0 load, 11.5s",11.53 / 6.92,A > B,3.07 / 3.83,B > A,B > A,No,Yes,—
+5,2,"2 fl, 1 load, 7.9s","3 fl, 3 load, 27.1s",10.11 / 45.68,B > A,4.21 / 43.36,B > A,B > A,Yes,Yes,—
+6,3,"3 fl, 1 load, 19.9s","4 fl, 3 load, 2.4s",29.94 / 51.84,B > A,23.88 / 7.68,A > B,A > B,No,Yes,2s is far too little to escape
+7,3,"2 fl, 3 load, 27.3s","4 fl, 3 load, 19.8s",45.84 / 79.68,B > A,43.68 / 63.36,B > A,B > A,Yes,Yes,B survives ~20s with 2 more floors
+8,2,"1 fl, 0 load, 21.3s","3 fl, 1 load, 12.3s",3.42 / 16.92,B > A,2.84 / 9.84,B > A,B > A,Yes,Yes,B gives good evacuation time
+9,2,"1 fl, 1 load, 2.1s","2 fl, 2 load, 10.4s",4.28 / 16.16,B > A,0.56 / 8.32,B > A,B > A,Yes,Yes,—
+10,3,"3 fl, 0 load, 24.6s","3 fl, 3 load, 17.3s",16.38 / 56.76,B > A,14.76 / 41.52,B > A,B > A,Yes,Yes,—
+11,3,"3 fl, 2 load, 6.8s","3 fl, 2 load, 20.6s",33.12 / 45.54,B > A,12.24 / 37.08,B > A,B > A,Yes,Yes,—
+12,3,"4 fl, 0 load, 19.5s","4 fl, 1 load, 16.4s",19.80 / 37.12,B > A,15.60 / 26.24,B > A,B > A,Yes,Yes,B is only 3s less for +1 load
+13,5,"4 fl, 2 load, 21.7s","1 fl, 1 load, 24.5s",103.40 / 18.17,A > B,86.80 / 16.33,A > B,A > B,Yes,Yes,A has 3 more floors and higher load
+14,2,"1 fl, 3 load, 11.3s","3 fl, 0 load, 19.7s",11.01 / 9.94,A > B,6.03 / 7.88,B > A,Tie,No,No,Evaluator judged as a tie
+15,3,"3 fl, 0 load, 24.0s","4 fl, 1 load, 28.4s",16.20 / 46.72,B > A,14.40 / 45.44,B > A,B > A,Yes,Yes,—
+16,3,"4 fl, 1 load, 22.7s","2 fl, 0 load, 2.5s",42.16 / 6.50,A > B,36.32 / 1.00,A > B,A > B,Yes,Yes,—
+17,3,"3 fl, 3 load, 25.1s","1 fl, 3 load, 3.3s",66.12 / 13.32,A > B,60.24 / 2.64,A > B,A > B,Yes,Yes,—
+18,2,"3 fl, 0 load, 24.5s","3 fl, 0 load, 27.3s",10.90 / 11.46,B > A,9.80 / 10.92,B > A,B > A,Yes,Yes,—
+19,3,"2 fl, 0 load, 11.8s","4 fl, 3 load, 16.2s",8.36 / 73.92,B > A,4.72 / 51.84,B > A,B > A,Yes,Yes,—
+20,5,"4 fl, 3 load, 18.0s","1 fl, 2 load, 19.5s",128.00 / 24.75,A > B,96.00 / 19.50,A > B,A > B,Yes,Yes,—
